@@ -1,0 +1,30 @@
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\bin\Debug\net8.0\appsettings.json
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\bin\Debug\net8.0\Games APP.staticwebassets.runtime.json
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\bin\Debug\net8.0\Games APP.exe
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\bin\Debug\net8.0\Games APP.deps.json
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\bin\Debug\net8.0\Games APP.runtimeconfig.json
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\bin\Debug\net8.0\Games APP.dll
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\bin\Debug\net8.0\Games APP.pdb
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\obj\Debug\net8.0\Games APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\obj\Debug\net8.0\Games APP.AssemblyInfoInputs.cache
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\obj\Debug\net8.0\Games APP.AssemblyInfo.cs
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\obj\Debug\net8.0\Games APP.csproj.CoreCompileInputs.cache
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\obj\Debug\net8.0\Games APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\obj\Debug\net8.0\Games APP.RazorAssemblyInfo.cache
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\obj\Debug\net8.0\Games APP.RazorAssemblyInfo.cs
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\obj\Debug\net8.0\staticwebassets\msbuild.Games APP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\obj\Debug\net8.0\staticwebassets\msbuild.build.Games APP.props
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Games APP.props
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Games APP.props
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\obj\Debug\net8.0\scopedcss\bundle\Games APP.styles.css
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\obj\Debug\net8.0\scopedcss\projectbundle\Games APP.bundle.scp.css
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\obj\Debug\net8.0\Games APP.dll
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\obj\Debug\net8.0\refint\Games APP.dll
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\obj\Debug\net8.0\Games APP.pdb
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\obj\Debug\net8.0\Games APP.genruntimeconfig.cache
+C:\Users\AL-FAJR\Desktop\gravity_books_dwh\Movies APP\Movies APP\obj\Debug\net8.0\ref\Games APP.dll
