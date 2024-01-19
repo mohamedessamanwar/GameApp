@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace Game_APP.Models.Data
 {
@@ -9,5 +10,12 @@ namespace Game_APP.Models.Data
 
         [MaxLength(length: 250)]
         public string Name { get; set; } = string.Empty;
+
+
+
+        
+
+
     }
+
 }

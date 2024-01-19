@@ -1,4 +1,4 @@
-namespace Movies_APP.Models
+namespace Game_APP.Models
 {
     public class ErrorViewModel
     {

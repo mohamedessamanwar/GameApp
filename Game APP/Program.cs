@@ -1,24 +1,16 @@
+using Movies_APP.Services.CategoryRepo;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<ICategoryService,CategoryService>();
 
 builder.Services.AddDbContext<Game_APP.Models.Data.AppContext>(options => options
 
     .UseSqlServer(@"Server=.;Database=Game;Trusted_Connection=true;Encrypt=false"));
 
-
-
-
-
-
-
-
-
-
-
-
-
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -38,6 +30,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Game}/{action=Index}/{id?}"); 
 
 app.Run();

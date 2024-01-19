@@ -4021,11 +4021,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AL-FAJR\\Desktop\\gravity_books_dwh\\Movies APP\\Movies APP\\Game_APP.csproj",
+      "projectUniqueName": "C:\\Users\\AL-FAJR\\Desktop\\Movies APP\\Movies APP\\Game_APP.csproj",
       "projectName": "Game_APP",
-      "projectPath": "C:\\Users\\AL-FAJR\\Desktop\\gravity_books_dwh\\Movies APP\\Movies APP\\Game_APP.csproj",
+      "projectPath": "C:\\Users\\AL-FAJR\\Desktop\\Movies APP\\Movies APP\\Game_APP.csproj",
       "packagesPath": "C:\\Users\\AL-FAJR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AL-FAJR\\Desktop\\gravity_books_dwh\\Movies APP\\Movies APP\\obj\\",
+      "outputPath": "C:\\Users\\AL-FAJR\\Desktop\\Movies APP\\Movies APP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AL-FAJR\\AppData\\Roaming\\NuGet\\NuGet.Config",
