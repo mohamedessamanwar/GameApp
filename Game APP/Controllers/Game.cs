@@ -12,7 +12,7 @@ namespace Game_APP.Controllers
        private readonly ICategoryService _categoryService;
 
         public Game(  ICategoryService categoryService) //Models.Data.AppContext context)
-        {
+        {//
             //_context = context;
             _categoryService = categoryService;
         }
