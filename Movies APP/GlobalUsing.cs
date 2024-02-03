@@ -1,0 +1,10 @@
+﻿global using System.ComponentModel.DataAnnotations; 
+global using  Microsoft.EntityFrameworkCore;
+global using  Game_APP.Models.Data;
+global using Game_APP.Services.GenericRepo;
+global using Game_APP.Setting;
+global using Game_APP.Viewsmodel;
+global using Microsoft.AspNetCore.Hosting;
+global using Game_APP.Attributs;
+global using Microsoft.AspNetCore.Mvc.Rendering;
+global using System.Collections.Generic;
